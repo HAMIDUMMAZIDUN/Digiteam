@@ -82,8 +82,8 @@
                             android:id="@+id/userName"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Syipa Afiyani"
-                            android:textColor="#212121"
+                            android:text="HAMID ABDUL AZIZ"
+                            android:textColor="#FFFFFF"
                             android:textSize="16sp"
                             android:textStyle="bold" />
 
@@ -108,7 +108,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Jam Kerja Bulan Ini"
-                        android:textColor="#212121"
+                        android:textColor="#FFFFFF"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
@@ -156,7 +156,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="8dp"
                         android:text="Batas Minimum Jam Kerja 170 jam/bulan"
-                        android:textColor="#757575"
+                        android:textColor="#FFFFFF"
                         android:textSize="12sp" />
 
                     <!-- Check-in Button -->
@@ -191,7 +191,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Laporan Kamu"
-                    android:textColor="#212121"
+                    android:textColor="#FFFFFF"
                     android:textSize="18sp"
                     android:textStyle="bold" />
 
