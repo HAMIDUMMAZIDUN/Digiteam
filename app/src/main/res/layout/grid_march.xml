@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="5"
+    android:rowCount="7"
+    android:layout_marginTop="8dp">
+
+    <!-- Row 1 -->
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_dark_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+
+    <!-- Row 2 -->
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_dark_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_dark_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+
+    <!-- Row 3 -->
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_dark_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_dark_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+
+    <!-- Row 4 -->
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_dark_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+
+    <!-- Row 5 -->
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_dark_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+
+    <!-- Row 6 -->
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_dark_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_medium_green" />
+
+    <!-- Row 7 (partial) -->
+    <View
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/grid_item_light_green" />
+
+</GridLayout>
